@@ -1,0 +1,9 @@
+# Ignore environment config
+.env
+
+# Node dependencies
+node_modules/
+
+# Playwright test output
+test-results/
+playwright-report/
